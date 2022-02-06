@@ -3,4 +3,4 @@
 
 <hr>
 
-[random notes / blog](https://lukaw3d.com/random)
+[random notes / blog](https://lukaw3d.com/random.html)
