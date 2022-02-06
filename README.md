@@ -1,3 +1,6 @@
-Related: https://gitlab.com/lukaw3d
+[GitHub](https://github.com/lukaw3d) &nbsp;
+[GitLab](https://gitlab.com/lukaw3d)
 
-Random notes / blog: https://lukaw3d.com/random
+<hr>
+
+[random notes / blog](https://lukaw3d.com/random)
